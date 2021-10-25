@@ -1,0 +1,25 @@
+body{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f28500;
+    text-align: center;
+}
+
+div{
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left:50%; 
+    transform: translate(-50%,-50%);
+    padding: 40px;
+    border-radius: 15px;
+    color: fffff;
+}
+button{
+    background-color: rgb(9, 30, 221);
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+}
